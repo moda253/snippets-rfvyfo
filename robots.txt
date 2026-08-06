@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moda253.github.io/snippets-rfvyfo/sitemap.xml
